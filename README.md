@@ -13,3 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: GitHub
 - 😄 Pronouns: LISKISS
 - ⚡ Fun fact: 💒
+
+
+## Ideas Collection
+
+- a github annual summary in H5 like Netease Music
+  - 你最爱的语言是xxx
+  - 你最喜欢在xxx点提交代码
