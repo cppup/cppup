@@ -10,8 +10,9 @@
 
 ## Games
 
-| 🎮 2048 Terminal | [▶ Play](https://cppup.github.io/games/) |
+| Game | Link |
 |---|---|
+| 🎮 2048 Terminal | [▶ Play](https://cppup.github.io/games/) |
 
 ---
 
