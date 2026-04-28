@@ -27,5 +27,5 @@
 ## Ideas Collection
 
 - a GitHub annual summary in H5 like NetEase Music
-  - 你最爱的语言是 xxx
-  - 你最喜欢在 xxx 点提交代码
+  - 你最爱的语言是 C/Rust/Python
+  - 你最喜欢在 0 点提交代码
